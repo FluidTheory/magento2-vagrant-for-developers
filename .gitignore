@@ -4,3 +4,4 @@
 /scripts/.current_nesting_level
 /scripts/.current_log_path
 .DS_Store
+_conversion_config/maygroupintl_magento.sql
